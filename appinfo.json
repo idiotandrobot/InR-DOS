@@ -1,0 +1,53 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "Idiot&Robot",
+    "longName": "Idiot&Robot DOS",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bt-icon-white.png",
+                "name": "IMAGE_BT_ICON",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_20",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "InR-DOS",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "468dc784-efb0-46ee-9cc9-603e56cc741c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
